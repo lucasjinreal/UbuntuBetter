@@ -29,7 +29,13 @@ Clone it and mv the theme into `/usr/share/themes`, then you can found it in Twe
 
 ## shell
 
+Install gnoeme shell extensions:
 
+```
+sudo apt-get install gnome-shell-extensions
+
+```
+Then open tweaks, you can open extensions tab, open the ubuntu themes taggle. (If not found, reboot thesystem)
 
 ## dock
 
