@@ -39,7 +39,10 @@ Then open tweaks, you can open extensions tab, open the ubuntu themes taggle. (I
 
 ## dock
 
+From application center install `dash to dock`, just search and click install, you will get a dock.
+
 
 
 ## login screen
 
+Just inside  `SetWallperper` you can run ./install.sh, it will install wallpaper for you.
